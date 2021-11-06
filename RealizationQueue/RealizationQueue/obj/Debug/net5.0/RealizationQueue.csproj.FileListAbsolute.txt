@@ -1,0 +1,16 @@
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\bin\Debug\net5.0\RealizationQueue.exe
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\bin\Debug\net5.0\RealizationQueue.deps.json
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\bin\Debug\net5.0\RealizationQueue.runtimeconfig.json
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\bin\Debug\net5.0\RealizationQueue.runtimeconfig.dev.json
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\bin\Debug\net5.0\RealizationQueue.dll
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\bin\Debug\net5.0\ref\RealizationQueue.dll
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\bin\Debug\net5.0\RealizationQueue.pdb
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\RealizationQueue.csprojAssemblyReference.cache
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\RealizationQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\RealizationQueue.AssemblyInfoInputs.cache
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\RealizationQueue.AssemblyInfo.cs
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\RealizationQueue.csproj.CoreCompileInputs.cache
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\RealizationQueue.dll
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\ref\RealizationQueue.dll
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\RealizationQueue.pdb
+C:\Users\Максим.DESKTOP-NKDFPI1\source\repos\RealizationQueue\RealizationQueue\obj\Debug\net5.0\RealizationQueue.genruntimeconfig.cache
