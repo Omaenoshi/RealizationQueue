@@ -61,6 +61,8 @@ namespace RealizationQueue
 
         public void Print()
         {
+            if (IsEmpry())
+                throw new Exception("Queue is empty.");
             foreach (var e in this)
                 Console.WriteLine(e);
         }
